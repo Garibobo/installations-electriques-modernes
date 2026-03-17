@@ -143,4 +143,4 @@ python -m http.server 8000
 
 ---
 
-**Créé par Amir Garibovic - Février 2026**
+**Créé par Garibobo - Février 2026**
