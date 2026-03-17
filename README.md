@@ -98,4 +98,4 @@ Tout le contenu est en **français**.
 
 ---
 
-**Modernisé par Amir Garibovic - 2026**
+**Modernisé par Garibobo - 2026**
